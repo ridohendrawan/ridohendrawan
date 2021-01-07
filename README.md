@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left">
   <a href="https://twitter.com/iolardemartini" target="_blank">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/947329622338383378/FEFB321BF7776A3CC144F2B14014CAD70D66B5E4/" alt="Twitter"/>
+    <img src="https://media.tenor.com/images/d6334bf7d028be3950dd601ef7e4d339/tenor.gif" alt="Twitter"/>
   </a>
 </p>
 <!--
