@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/ridohendrawan/ridohendrawan/Posterjpg.jpg">
+  <img src="https://github.com/ridohendrawan/ridohendrawan/raw/master/Posterjpg.jpg">
 </p>
 
 <p align="center">
