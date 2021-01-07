@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://twitter.com/iolardemartini" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/947329622338383378/FEFB321BF7776A3CC144F2B14014CAD70D66B5E4/" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
